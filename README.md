@@ -23,6 +23,12 @@ Related videos:
 - Arduino OLED Gauge - https://youtu.be/xI6dXTA02UQ
 - Smaller & Faster Arduino - https://youtu.be/4GfPQoIRqW8
 
+Small animation:
+
+![arduino_analog_clock_600x600px](https://github.com/upiir/arduino_oled_clock/assets/117754156/858bdf5a-97a4-4b1f-b58d-be3aaa12957b)
+
+
+
 ![THUMB_arduino_oled_clock](https://github.com/upiir/arduino_oled_clock/assets/117754156/b6c33066-cae8-42b8-85f3-35f65ae653c8)
 
 
