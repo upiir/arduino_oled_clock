@@ -5,6 +5,19 @@
 
 **WOKWI PROJECT: https://wokwi.com/projects/369406206651779073**
 
+**WOKWI PROJECT 128x128px: https://wokwi.com/projects/376496004605220865**
+
+
+
+
+
+
+**YOUTUBE VIDEO 128x128px Compass Image: https://youtu.be/G1C09eoJ07c**
+
+**WOKWI PROJECT 128x128px Compass Image: https://wokwi.com/projects/376931330900285441**
+
+
+
 
 Links from the video:
 - 128x128 SH1107 OLED Display: https://s.click.aliexpress.com/e/_DdOCQHj
